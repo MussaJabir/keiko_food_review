@@ -7,7 +7,7 @@ class OvalClipperUpper extends CustomClipper<Path> {
     path.lineTo(0, size.height);
     path.arcToPoint(
       Offset(size.width, size.height),
-      radius: Radius.elliptical(size.width / 4, 4),
+      radius: Radius.elliptical(size.width / 2, 15),
     );
     path.lineTo(size.width, 0);
     return path;
