@@ -29,10 +29,9 @@ class _ReviewListState extends State<ReviewList> {
                 end: Alignment.bottomCenter)
           ),
         ),),
+        centerTitle: true,
       ),
-
-       extendBodyBehindAppBar: true
+       extendBodyBehindAppBar: true,
     );
-
   }
 }
