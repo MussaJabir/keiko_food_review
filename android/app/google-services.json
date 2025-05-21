@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211577314132",
+    "project_id": "keikofoodreview",
+    "storage_bucket": "keikofoodreview.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211577314132:android:4e2ebcacded861b56686c1",
+        "android_client_info": {
+          "package_name": "com.example.keiko_food_review"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvewI-S0lMfgnE2l4ZosvNd2lSL6nxF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

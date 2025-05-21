@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../helper/clippers.dart';
 
 class ReviewList extends StatefulWidget {
